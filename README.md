@@ -1,23 +1,42 @@
-### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbk123477%2F&count_bg=%2379C83D&title_bg=%23555555&icon=apple.svg&icon_color=%23DFD3D3&title=hits&edge_flat=false&theme=tokyonight)](https://hits.seeyoufarm.com)
+# Hi, I'm Minki Hong 👋  
+### AI Researcher · Generative AI · Social Norms · Bias Mitigation
 
-[![bk123477's GitHub stats](https://github-readme-stats.vercel.app/api?username=bk123477&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+I study how AI can better align with human values, social norms, fairness, and inclusivity.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bk123477&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 🔬 Research & Work
+
+```text
+[Research Interests]
+
+Generative AI
+├── Social Norm Modeling
+├── Bias Evaluation & Mitigation
+├── Fairness / Inclusivity
+
+Reasoning Models
+├── LLM Prompting
+├── VLM Reasoning
+└── Human-like Interpretation
 
 
+📰 [Recent News]
 
-<!--
-**bk123477/bk123477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Mar 2026 — Starting Internship at SK Telecom
+- Jan 2026 — EACL 2026 Findings (VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought)
+- Dec 2025 — IASEAI 2026 (Exposing Blindspots: Cultural Bias Evaluation in Generative Image Models)
+- Nov 2025 — EMNLP 2025 (SAC Highlights Award!) (NormGenesis: Multicultural Dialogue Generation via Exemplar-Guided Social Norm Modeling and Violation Recovery)
+- Aug 2025 - Visiting Scholar at Carnegie Mellon University
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 [Selected Publications]
+
+- NormGenesis  
+  Multicultural Dialogue Generation via Social Norm Modeling
+
+- VisDoT  
+  Enhancing Visual Reasoning through Human-Like Interpretation Grounding
+
+- Exposing Blindspots  
+  Cultural Bias Evaluation in Generative Image Models
