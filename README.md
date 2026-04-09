@@ -24,9 +24,9 @@ Reasoning Models
 📰 [Recent News]
 
 - Mar 2026 — Starting Internship at SK Telecom
-- Jan 2026 — EACL 2026 Findings (VisDoT : Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought)
+- Jan 2026 — EACL 2026 Findings (VisDoT: Enhancing Visual Reasoning through Human-Like Interpretation Grounding and Decomposition of Thought)
 - Dec 2025 — IASEAI 2026 (Exposing Blindspots: Cultural Bias Evaluation in Generative Image Models)
-- Nov 2025 — EMNLP 2025 (SAC Highlights Award!) (NormGenesis: Multicultural Dialogue Generation via Exemplar-Guided Social Norm Modeling and Violation Recovery)
+- Nov 2025 — **EMNLP 2025 (SAC Highlights Award!)** (NormGenesis: Multicultural Dialogue Generation via Exemplar-Guided Social Norm Modeling and Violation Recovery)
 - Aug 2025 - Visiting Scholar at Carnegie Mellon University
 
 
